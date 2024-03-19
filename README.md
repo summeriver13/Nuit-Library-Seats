@@ -1,6 +1,6 @@
-# WHPU-Library-Seats
+# 图书馆座位自动预约脚本
 
-fork: <https://github.com/Rlxzmdd/Nuit-Library-Seats>
+fork: <https://github.com/bear-zd/ChaoXingReserveSeat>
 
 ## setting
 
