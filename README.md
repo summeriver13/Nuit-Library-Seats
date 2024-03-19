@@ -1,4 +1,4 @@
-# Nuit-Library-Seats
+# WHPU-Library-Seats
 
 fork: <https://github.com/bear-zd/ChaoXingReserveSeat>
 
@@ -38,8 +38,8 @@ and edit the config.json to make this script work.
         ["16:30", "20:30"],
         ["20:30", "22:00"]
       ],
-      "wait_time": 1, // 每次抢time中的时间间隔，实测东软1s间隔不会有太大问题
-      "flag": 0 // 是否需要反复抢，东软基本上没人跟你抢。。
+      "wait_time": 1, // 每次抢time中的时间间隔
+      "flag": 0 // 是否需要反复抢
     }
   ]
 }
