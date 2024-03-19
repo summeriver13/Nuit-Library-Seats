@@ -1,6 +1,6 @@
 # WHPU-Library-Seats
 
-fork: <https://github.com/bear-zd/ChaoXingReserveSeat>
+fork: <https://github.com/Rlxzmdd/Nuit-Library-Seats>
 
 ## setting
 
